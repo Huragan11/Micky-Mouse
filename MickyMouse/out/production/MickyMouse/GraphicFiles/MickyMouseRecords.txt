@@ -1,0 +1,8 @@
+Name: basdbabsd, Your time in seconds: 2, Your score: 0
+Name: test2, Your time in seconds: 8, Your score: 3
+Name: test3, Your time in seconds: 5, Your score: 1
+Name: test4, Your time in seconds: 3, Your score: 0
+Name: Your name, Your time in seconds: 1, Your score: 0
+Name: FinalTEST, Your time in seconds: 38, Your score: 22
+Name: final test 2, Your time in seconds: 26, Your score: 13
+Name: TEST !!!, Your time in seconds: 26, Your score: 12
